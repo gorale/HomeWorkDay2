@@ -11,9 +11,9 @@ public class SumAndAvarage {
         int thirdNum = num.nextInt();
 
         int sum = firstNum + secondNum + thirdNum;
-        float average = (float) sum/3;
-        System.out.println("Sum: "+sum);
-        System.out.print("Average: "+average);
+        float average = (float) sum / 3;
+        System.out.println("Sum: " + sum);
+        System.out.print("Average: " + average);
 
 
     }
